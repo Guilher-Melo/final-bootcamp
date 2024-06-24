@@ -1,5 +1,5 @@
 # Título do Projeto Extremamente Aesthetic ;)
-Ebook inteigência artificial generativa.
+Ebook inteligência artificial generativa.
 ## 📒 Descrição
 Foi feito um ebook que explica os principais uso da inteligência artificial generativa.
 
